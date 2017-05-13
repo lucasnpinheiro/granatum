@@ -1,6 +1,7 @@
 {
-    "name": "Granatum_V1",
-    "description": "Inclusão de todas as ações da API Granatum",
+    "name": "lucasnpinheiro/granatum",
+    "description": "Granatum API, inclusão de todas as ações da API Granatum",
+    "keywords": ["granatum","api"],
     "authors": [
         {
             "name": "Lucas Nunes Pinto Pinheiro",

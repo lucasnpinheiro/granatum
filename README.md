@@ -1,23 +1,31 @@
-# Granatum #
+***Granatum***
+========
+
 Biblioteca PHP para integração com Granatum usando Curl
 
-## Inclui as funcionalidades ##
-> Bancos
-> Categorias
-> Centros Custo Lucro
-> Cidades
-> Clientes
-> Cobranças
-> Contas
-> Estados
-> Formas Pagamentos
-> Fornecedores
-> Lançamentos
+Inclui as funcionalidades
+-------------------------
+
+ - Bancos
+ - Categorias
+ - Centros Custo Lucro
+ - Cidades
+ - Clientes
+ - Cobranças
+ - Contas
+ - Estados
+ - Formas
+ - Pagamentos
+ - Fornecedores
+ - Lançamentos
 
 
-# MIT License #
+----------
 
-### Copyright (c) 2017 Lucas Nunes Pinto Pinheiro ###
+
+**MIT License**
+
+Copyright (c) 2017 Lucas Nunes Pinto Pinheiro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

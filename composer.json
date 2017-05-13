@@ -1,0 +1,18 @@
+{
+    "name": "Granatum V1",
+    "description": "Inclusão de todas as ações da API Granatum",
+    "authors": [
+        {
+            "name": "Lucas Nunes Pinto Pinheiro",
+            "email": "lucasnpinheiro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Granatum\\": "src/"
+        }
+    },
+    "require": {
+        "curl/curl": "^1.6"
+    }
+}
